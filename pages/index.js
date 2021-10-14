@@ -42,7 +42,10 @@ export default function Home() {
           <ViewGridIcon className="h-10 w-10 p-2 rounded-full hover:bg-gray-100 cursor-pointer" />
 
           {/* Avatar */}
-          <Avatar url="https://avatars.githubusercontent.com/u/71394788?s=400&u=7e7351a178238bde6e7ab24f3f9b8a509ee3d595&v=4" />
+          <Avatar
+            url="https://avatars.githubusercontent.com/u/71394788?s=400&u=7e7351a178238bde6e7ab24f3f9b8a509ee3d595&v=4"
+            alt="Profile Pic"
+          />
         </div>
       </header>
 
@@ -52,6 +55,7 @@ export default function Home() {
           src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"
           height={100}
           width={300}
+          alt="Google Logo"
         />
         <div className="flex w-full mt-5 hover:shadow-lg focus-within:shadow-lg max-w-md rounded-full border-gray-200 px-5 py-3 items-center sm:max-w-xl lg:max-w-2xl">
           <SearchIcon className="h-5 mr-3 text-gray-500" />

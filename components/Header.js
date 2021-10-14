@@ -27,6 +27,7 @@ function Header() {
           width={120}
           onClick={() => router.push("/")}
           className="cursor-pointer"
+          alt="Google Logo"
         />
         <form className="flex flex-grow px-6 py-3 ml-10 mr-5 border border-gray-200 rounded-full shadow-lg max-w-3xl items-center">
           <input
@@ -50,6 +51,7 @@ function Header() {
         <Avatar
           className="ml-auto"
           url="https://avatars.githubusercontent.com/u/71394788?s=400&u=7e7351a178238bde6e7ab24f3f9b8a509ee3d595&v=4"
+          alt="Profile Pic"
         />
       </div>
 
