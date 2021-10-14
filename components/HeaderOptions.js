@@ -1,4 +1,4 @@
-import HeaderOption from './HeaderOption';
+import HeaderOption from "./HeaderOption";
 import {
   DotsVerticalIcon,
   MapIcon,
@@ -6,7 +6,7 @@ import {
   PhotographIcon,
   PlayIcon,
   SearchIcon,
-} from '@heroicons/react/outline';
+} from "@heroicons/react/outline";
 
 function HeaderOptions() {
   return (

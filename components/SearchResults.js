@@ -1,4 +1,4 @@
-import PaginationButtons from './PaginationButtons';
+import PaginationButtons from "./PaginationButtons";
 
 function SearchResults({ results }) {
   return (
