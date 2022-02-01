@@ -50,7 +50,7 @@ function Header() {
         </form>
         <Avatar
           className="ml-auto"
-          url="https://avatars.githubusercontent.com/u/71394788?s=400&u=7e7351a178238bde6e7ab24f3f9b8a509ee3d595&v=4"
+          url="https://avatars.githubusercontent.com/u/98692932?s=400&u=a88c81c80542bbffae4b8ab3939d127336557d87&v=4"
           alt="Profile Pic"
         />
       </div>
